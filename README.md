@@ -12,16 +12,16 @@ Este es el repositorio principal del curso Diseño Detallado de Software para el
 
 | Nombre               |  Rol         |  Email         |
 |:-------------------- |:--------------|:--------------|
-| M. Fernanda Sepúlveda | Profesora | mfsepulveda@uc.cl |
-| Daniela Poblete | Coordinadora | dnpoblete@uc.cl |
-| Andrés Pincheira | Ayudante | arpincheira@uc.cl |
-| Benito Tondreaux | Ayudante | benito.tondreaux@uc.cl |
-| Ian Basly | Ayudante | igbasly@uc.cl |
-| Jerry Mendoza | Ayudante | jamendoza@uc.cl |
-| Lucas Muñoz | Ayudante | lucas.muoz@uc.cl |
-| Manuel Muñoz | Ayudante | mimunoz11@uc.cl |
-| Oscar Cárcamo | Ayudante | oscar.carcamoz@uc.cl |
-| Yerko Chávez | Ayudante | yachavez@uc.cl |
+| M. Fernanda Sepúlveda (@mf222) | Profesora | mfsepulveda@uc.cl |
+| Daniela Poblete (@Dnpoblete) | Coordinadora | dnpoblete@uc.cl |
+| Andrés Pincheira (@arpincheira) | Ayudante | arpincheira@uc.cl |
+| Benito Tondreaux (@benito-tondreaux) | Ayudante | benito.tondreaux@uc.cl |
+| Ian Basly (@igbasly) | Ayudante | igbasly@uc.cl |
+| Jerry Mendoza (@jerrymendoza) | Ayudante | jamendoza@uc.cl |
+| Lucas Muñoz (@Luckbox314 ) | Ayudante | lucas.muoz@uc.cl |
+| Manuel Muñoz (@mimunoz11) | Ayudante | mimunoz11@uc.cl |
+| Oscar Cárcamo (@oscars810) | Ayudante | oscar.carcamoz@uc.cl |
+| Yerko Chávez (@yerkko) | Ayudante | yachavez@uc.cl |
 
 ## Contenidos
 
