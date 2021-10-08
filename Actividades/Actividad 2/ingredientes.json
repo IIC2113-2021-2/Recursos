@@ -1,0 +1,98 @@
+[
+  {
+    "Nombre": "Tomate",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Piña",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Tomate",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Rúcula",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Prosciutto",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Bolognesa",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Espinaca",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Salami",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "4 quesos",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Carne de vacuno",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Alfredo",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Camarón",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Choclo",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Pesto",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Champiñones",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Carne de soya",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Blanca",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Salami",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Aceitunas",
+    "Tipo": "Verdura"
+  },
+  {
+    "Nombre": "Puttanesca",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Anchoas",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Napoletana",
+    "Tipo": "Salsa"
+  },
+  {
+    "Nombre": "Peperoni",
+    "Tipo": "Proteína"
+  },
+  {
+    "Nombre": "Pollo",
+    "Tipo": "Proteína"
+  }
+]
