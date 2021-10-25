@@ -17,7 +17,7 @@
   },
   {
     "Nombre": "Prosciutto",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Bolognesa",
@@ -29,7 +29,7 @@
   },
   {
     "Nombre": "Salami",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "4 quesos",
@@ -37,7 +37,7 @@
   },
   {
     "Nombre": "Carne de vacuno",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Alfredo",
@@ -45,7 +45,7 @@
   },
   {
     "Nombre": "Camarón",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Choclo",
@@ -61,7 +61,7 @@
   },
   {
     "Nombre": "Carne de soya",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Blanca",
@@ -69,7 +69,7 @@
   },
   {
     "Nombre": "Salami",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Aceitunas",
@@ -81,7 +81,7 @@
   },
   {
     "Nombre": "Anchoas",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Napoletana",
@@ -89,10 +89,10 @@
   },
   {
     "Nombre": "Peperoni",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   },
   {
     "Nombre": "Pollo",
-    "Tipo": "Proteína"
+    "Tipo": "Proteina"
   }
 ]

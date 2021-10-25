@@ -7,15 +7,15 @@
         "Ingredientes": {
           "Salsa": "Tomate",
           "Verdura": "Rúcula",
-          "Proteína": "Prosciutto"
+          "Proteina": "Prosciutto"
         }
       },
       {
-        "Alimento": "Lasaña",
+        "Alimento": "Lasagna",
         "Ingredientes": {
           "Salsa": "Bolognesa",
           "Verdura": "Espinaca",
-          "Proteína": "Carne de vacuno"
+          "Proteina": "Carne de vacuno"
         }
       },
       {
@@ -36,15 +36,15 @@
         "Ingredientes": {
           "Salsa": "Blanca",
           "Verdura": "Choclo",
-          "Proteína": "Camarón"
+          "Proteina": "Camarón"
         }
       },
       {
-        "Alimento": "Lasaña",
+        "Alimento": "Lasagna",
         "Ingredientes": {
           "Salsa": "Tomate",
           "Verdura": "Champiñones",
-          "Proteína": "Carne de soya"
+          "Proteina": "Carne de soya"
         }
       }
     ]
@@ -57,7 +57,7 @@
         "Ingredientes": {
           "Salsa": "Puttanesca",
           "Verdura": "Aceitunas",
-          "Proteína": "Anchoas"
+          "Proteina": "Anchoas"
         }
       }
     ]
@@ -81,7 +81,7 @@
         "Ingredientes": {
           "Salsa": "Tomate",
           "Verdura": "Rúcula",
-          "Proteína": ""
+          "Proteina": ""
         }
       },
       {
@@ -89,7 +89,7 @@
         "Ingredientes": {
           "Salsa": "Tomate",
           "Verdura": "Rúcula",
-          "Proteína": ""
+          "Proteina": ""
         }
       }
     ]
@@ -102,7 +102,7 @@
         "Ingredientes": {
           "Salsa": "4 quesos",
           "Verdura": "Espinaca",
-          "Proteína": ""
+          "Proteina": ""
         }
       }
     ]
@@ -115,15 +115,15 @@
         "Ingredientes": {
           "Salsa": "Tomate",
           "Verdura": "Champiñones",
-          "Proteína": "Camarones"
+          "Proteina": "Camarones"
         }
       },
       {
-        "Alimento": "Lasaña",
+        "Alimento": "Lasagna",
         "Ingredientes": {
           "Salsa": "Blanca",
           "Verdura": "Espinaca",
-          "Proteína": "Carne de soya"
+          "Proteina": "Carne de soya"
         }
       },
       {
@@ -165,7 +165,7 @@
         "Ingredientes": {
           "Salsa": "Pesto",
           "Verdura": "Piña",
-          "Proteína": "Anchoas"
+          "Proteina": "Anchoas"
         }
       }
     ]
